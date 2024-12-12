@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **chaithanyarajbulla@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1aZSEcoXoQM_RfZzf8zrSmhPM1jGwzqDB/view?usp=drivesdk](https://drive.google.com/file/d/1aZSEcoXoQM_RfZzf8zrSmhPM1jGwzqDB/view?usp=drivesdk)
+- 📄 Know about my experiences [resume.pdf)
 
 - ⚡ Fun fact **I think I am a Player**
 
