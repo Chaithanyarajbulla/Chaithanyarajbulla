@@ -1,4 +1,5 @@
-<h4 align="center">Hi 👋, I'm BULLA CHAITHANYA RAJ</h4>
+<h2 style="color:crimson;" align="center">Hi 👋, I'm BULLA CHAITHANYA RAJ | B Tech CSE Student </h2>
+<p>Passionate SQL Developer with a strong grasp of database design, optimization, and query performance tuning.</p>
 <img align="center" width="" src="https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif" alt="Chaithanyarajbulla" />
 
 
